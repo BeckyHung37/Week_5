@@ -24,7 +24,7 @@
 <img width="569" alt="3-4" src="https://user-images.githubusercontent.com/77678349/112743217-f533ab00-8fc7-11eb-8c7e-44d66b5e6996.png">
 
 <h4>Q5.使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。</h4>
-<img width="568" alt="截圖 2021-03-28 下午11 51 01" src="https://user-images.githubusercontent.com/77678349/112758359-8df61500-9020-11eb-913b-8b0115d86bc0.png">
+<img width="570" alt="截圖 2021-03-29 上午12 10 45" src="https://user-images.githubusercontent.com/77678349/112758920-43c26300-9023-11eb-90b2-85a7070b136a.png">
 
 <h4>Q6.使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。</h4>
 <img width="572" alt="3-6" src="https://user-images.githubusercontent.com/77678349/112743529-b3583400-8fca-11eb-87fb-6923bc5c45d2.png">
