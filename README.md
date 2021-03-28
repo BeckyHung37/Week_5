@@ -23,3 +23,19 @@
 <h4>Q4.使用 SELECT 指令取得所有在 user 資料表中的使用者資料，並按照 time 欄位，由近到遠排序。</h4>
 <img width="569" alt="3-4" src="https://user-images.githubusercontent.com/77678349/112743217-f533ab00-8fc7-11eb-8c7e-44d66b5e6996.png">
 
+<h4>Q5.使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。</h4>
+<img width="568" alt="3-5" src="https://user-images.githubusercontent.com/77678349/112743427-d7ffdc00-8fc9-11eb-902c-473d080936bb.png">
+
+<h4>Q6.使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。</h4>
+<img width="572" alt="3-6" src="https://user-images.githubusercontent.com/77678349/112743529-b3583400-8fca-11eb-87fb-6923bc5c45d2.png">
+
+<h4>Q7.使用 SELECT 指令取得欄位 username 是 ply、且欄位 password 也是 ply 的資料。</h4>
+<img width="570" alt="3-7" src="https://user-images.githubusercontent.com/77678349/112743539-c3701380-8fca-11eb-9194-4cb0af6e48cb.png">
+
+<h4>Q8.使用 UPDATE 指令更新欄位 username 是 ply 的使用者資料，將資料中的 name 欄位改成【丁滿】。</h4>
+<p>更改後，再使用SELECT檢查結果</p>
+<img width="570" alt="3-8" src="https://user-images.githubusercontent.com/77678349/112743649-b273d200-8fcb-11eb-80f5-87079c509a38.png">
+
+<h4>Q9.使用 DELETE 指令刪除所有在 user 資料表中的資料。</h4>
+<p>刪除後，再使用SELECT檢查結果</p>
+<img width="572" alt="3-9" src="https://user-images.githubusercontent.com/77678349/112743736-75f4a600-8fcc-11eb-90a5-be15527a0a8e.png">
