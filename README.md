@@ -40,4 +40,22 @@
 <p>刪除後，再使用SELECT檢查結果</p>
 <img width="572" alt="3-9" src="https://user-images.githubusercontent.com/77678349/112743736-75f4a600-8fcc-11eb-90a5-be15527a0a8e.png">
 <hr/>
+
+
 <h3>要求四-結合資料表 SQL JOIN 的操作</h3>
+<h4>Q1.在資料庫中，建立新資料表，取名字為message。資料表中必須包含以下欄位設定</h4>
+<img width="571" alt="4-1" src="https://user-images.githubusercontent.com/77678349/112746040-1227a880-8fdf-11eb-8efb-05a53f05f8e4.png">
+
+<h4>Q2.使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。</h4>
+<p>先在user資料表重新放入資料(因為在要求三最後刪掉了)</p>
+<img width="569" alt="4-2-1" src="https://user-images.githubusercontent.com/77678349/112748028-c29ba980-8feb-11eb-9d98-c8c53cb0ffd2.png">
+<p>在message資料表試著先加入第一筆資料</p>
+<img width="571" alt="4-2-2" src="https://user-images.githubusercontent.com/77678349/112748046-d8a96a00-8feb-11eb-89c6-ac6b6987b24a.png">
+<p>接著在message資料表加入其他筆資料</p>
+<img width="566" alt="4-2-3" src="https://user-images.githubusercontent.com/77678349/112748056-e2cb6880-8feb-11eb-8a0e-3c2a055be5f3.png">
+<p>以SELECT搭配JOIN語法取得會員姓名和留言</p>
+<img width="568" alt="4-2-4" src="https://user-images.githubusercontent.com/77678349/112748071-ff67a080-8feb-11eb-81de-c2890261db17.png">
+
+<h4>Q3.使用 SELECT 搭配 JOIN 的語法，取得 user 資料表中欄位 username 是 ply 的所有留言，資料中須包含留言會員的姓名。</h4>
+<img width="570" alt="4-3" src="https://user-images.githubusercontent.com/77678349/112748577-22478400-8fef-11eb-9168-9e77f4961a18.png">
+
