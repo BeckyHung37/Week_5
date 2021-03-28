@@ -39,5 +39,5 @@
 <h4>Q9.使用 DELETE 指令刪除所有在 user 資料表中的資料。</h4>
 <p>刪除後，再使用SELECT檢查結果</p>
 <img width="572" alt="3-9" src="https://user-images.githubusercontent.com/77678349/112743736-75f4a600-8fcc-11eb-90a5-be15527a0a8e.png">
-
+<hr/>
 <h3>要求四-結合資料表 SQL JOIN 的操作</h3>
